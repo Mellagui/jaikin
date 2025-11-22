@@ -65,3 +65,13 @@ By following the steps above, your program should:
 - Allow users to create and visualize control points.
 - Animate the Chaikin subdivision process up to 7 iterations.
 - Restart automatically for continuous demonstration.
+
+## Project Structure
+
+```
+jaikin/
+├── src/
+├── .gitignore
+├── build.sh
+└── README.md
+```
